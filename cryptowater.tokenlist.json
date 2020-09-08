@@ -1,0 +1,16 @@
+{
+  "name": "CryptoWater",
+  "logoURI": "https://github.com/cryptowater-si/graphics/blob/master/CryptoWater-logo-coin_256x256.png",
+  "keywords": ["ico", "c2o", "cryptowater"],
+  "timestamp": "2020-08-9T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x13Ca8eb6405cFbE2eaE5D00207651002083fbc9d",
+      "name": "CryptoWater",
+      "symbol": "C2O",
+      "decimals": 2
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
